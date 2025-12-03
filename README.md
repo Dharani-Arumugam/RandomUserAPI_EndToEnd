@@ -12,6 +12,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
+(https://github.com/Dharani-Arumugam/RandomUserAPI_EndToEnd/blob/main/Data%20engineering%20architecture.png)
 
 The project is designed with the following components:
 
